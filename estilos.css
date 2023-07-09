@@ -1,0 +1,125 @@
+body{
+    background-image: url(img/mc-attention-red-1.jpg);
+    background-size: contain;
+    background-position: top;
+}
+
+.items{
+    text-align: right;
+    margin-right: 15px;
+    font-size: 18px;
+    margin-top: -40px;
+
+}
+
+
+element.style {
+    text-align: center;
+    font-size: 50px;
+    margin-left: 70px;}
+
+
+*{
+    box-sizing: border-box;
+}
+
+*{
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px 0px 18px;
+}
+
+
+h2{
+  float: left;
+  display: block;
+  margin-block-start: 7em;
+  margin-left: 30px;
+}
+
+
+.header{
+    background-image: url(img/miley-oficial-fondo-mercedes-lucero.jpg);
+    background-size: cover;
+}
+
+p{
+    display: block;
+    margin-block-start: 9em;
+    margin-block-end: 10em;
+    margin-inline-start: 30em;
+    margin-inline-end: 10em;
+    font-family: Arial,Helvetica,sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    letter-spacing: 0em;
+    line-height: 1em;
+    text-transform: none;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 17px;
+    letter-spacing: .07em;
+    line-height: 1.8em;
+    text-transform: uppercase;
+    margin-left: 40em;
+
+}
+
+html{
+    scroll-behavior: smooth;
+    position: relative;
+}
+
+#videoclips{
+    background-image: url(img/lista-de-canciones-miley.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    background-position: center;
+
+}
+
+h3{
+    text-align: center;
+    display: block;
+   
+}
+
+h4{
+    text-align: left;
+    margin-left: 60px;
+}
+
+h5{
+    text-align: right;
+    margin-right: 360px;
+  
+}
+
+h6{
+    text-align: right;
+    margin-right: 70px;
+}
+
+footer{
+  margin-bottom: 40px;
+  margin-top: 100px;
+}
+
+.merch{
+    font-family: Arial,Helvetica,sans-serif;
+    font-weight: 700;
+    font-size: 2em;
+    letter-spacing: 0em;
+    line-height: 1em;
+    text-transform: none;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 2em;
+    letter-spacing: .07em;
+    line-height: 1.8em;
+    text-transform: uppercase;
+    cursor: pointer;
+    text-decoration: none;
+}
